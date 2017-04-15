@@ -1,0 +1,133 @@
+.top-menu {
+	float:left;
+	width:650px;
+	padding-left: 0px;
+	z-index:1001;
+}
+.menu-top {
+	height:36px;
+	width:650px;
+	float:left;
+	padding:0px;
+	overflow:hidden;
+}
+.menu-top ul {
+	list-style: none;
+	padding:0px;
+	margin:0px;
+}
+.menu-top li {
+	color:#FFFFFF;
+	list-style:none;
+	padding:0px;
+	float:left;	
+}
+.menu-top li.last {
+	background:none;
+}
+.menu-top li a {
+	display:inline-block;
+	float:left;
+}
+.menu-top li a b {
+	display:none;
+}
+.menu-top li.blog a {
+	width:70px;
+	height:26px;
+	background:url(img/navigation_dcr3.gif)left top no-repeat;
+}
+.menu-top li.blog a:hover {
+	background:url(img/navigation_dcr3.gif) left -25px no-repeat;
+}
+.menu-top li.blog a.active {
+	background:url(img/navigation_dcr3.gif) left -26px no-repeat;
+}
+
+.menu-top li.play a {
+	width:70px;
+	height:26px;
+	background:url(img/navigation_dcr3.gif)left top no-repeat;
+}
+.menu-top li.play a:hover {
+	background:url(img/navigation_dcr3.gif) left -25px no-repeat;
+}
+.menu-top li.play a.active {
+	background:url(img/navigation_dcr3.gif) left -26px no-repeat;
+}
+
+.menu-top li.multiplayer a {
+	width:159px;
+	height:26px;
+	background:url(img/navigation_dcr3.gif) -839px top no-repeat;
+
+}
+.menu-top li.multiplayer a:hover {
+	background:url(img/navigation_dcr3.gif) -839px -25px no-repeat;
+}
+.menu-top li.multiplayer a.active {
+	background:url(img/navigation_dcr3.gif) -839px -26px no-repeat;
+}
+
+.menu-top li.rooms a {
+	width:114px;
+	height:26px;
+	background:url(img/navigation_dcr3.gif) -725px top no-repeat;
+
+}
+.menu-top li.rooms a:hover {
+	background:url(img/navigation_dcr3.gif) -725px -25px no-repeat;
+}
+.menu-top li.rooms a.active {
+	background:url(img/navigation_dcr3.gif) -725px -26px no-repeat;
+}
+
+.menu-top li.browse_car2 a {
+	width:174px;
+	height:26px;
+	background:url(img/navigation_dcr3.gif) -265px top no-repeat;
+
+}
+.menu-top li.browse_car2 a:hover{
+	background:url(img/navigation_dcr3.gif) -265px -25px no-repeat;
+}
+.menu-top li.browse_car2 a.active {
+	background:url(img/navigation_dcr3.gif) -265px -26px no-repeat;
+}
+
+.menu-top li.faq a {
+	width:82px;
+	height:26px;
+	background:url(img/navigation_dcr3.gif) -438px top no-repeat;
+
+}
+.menu-top li.faq a:hover{
+	background:url(img/navigation_dcr3.gif) -438px -25px no-repeat;
+}
+.menu-top li.faq a.active {
+	background:url(img/navigation_dcr3.gif) -438px -26px no-repeat;
+}
+
+.menu-top li.forum a {
+	width:82px;
+	height:26px;
+	background:url(img/navigation_dcr3.gif) -520px top no-repeat;
+}
+.menu-top li.forum a:hover{
+	background:url(img/navigation_dcr3.gif) -520px -25px no-repeat;
+}
+.menu-top li.forum a.active {
+	background:url(img/navigation_dcr3.gif) -520px -26px no-repeat;
+}
+
+.menu-top li.wiki a {
+	width:96px;
+	height:26px;
+	background:url(img/navigation_dcr3.gif) -629px top no-repeat;
+}
+.menu-top li.wiki a:hover{
+	background:url(img/navigation_dcr3.gif) -629px -25px no-repeat;
+}
+.menu-top li.wiki a.active {
+	background:url(img/navigation_dcr3.gif) -629px -26px no-repeat;
+}
